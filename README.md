@@ -14,6 +14,7 @@ Using the preprocessed vehicle appearance user scores and vehicle appearance exp
 ![VAS](https://github.com/KDafu/Vehicle-Appearance-Dataset/assets/101496714/608e6e20-166e-4b64-b435-7f784a367fba)
 #  Vehicle Appearance Perceptual Imagery Evaluation Dataset (VAPIE)
 The corresponding images in the database are annotated based on the user's perspective and the expert's perspective, using the preprocessed vocabulary. we obtain the user and expert semantic evaluation dataset of vehicle appearance. We integrated the two datasets to create the vehicle appearance perceptual imagery evaluation dataset. The dataset is divided into two appearance sub-datasets: B-class sedan and midsize SUV. The dataset contains a total of 1179 models, including more than 40017 images of vehicle appearance.
+![VAPIE](https://github.com/KDafu/Vehicle-Appearance-Dataset/assets/101496714/0f4eae4d-39e5-479f-a634-92c8f2682702)
 
 The dataset is tested in various state-of-the-art convolutional neural networks, and it is verified that the dataset is reasonably distributed, of high quality.
 # Our dataset is now available:
