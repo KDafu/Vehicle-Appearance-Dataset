@@ -18,5 +18,6 @@ The corresponding images in the database are annotated based on the user's persp
 
 The dataset is tested in various state-of-the-art convolutional neural networks, and it is verified that the dataset is reasonably distributed, of high quality.
 # Our dataset is now available:
-https://drive.google.com/drive/folders/1lkEtlqgO7-qdh5PaBnl-6d9uuCRKMcBN?usp=sharing
+Google: https://drive.google.com/drive/folders/1lkEtlqgO7-qdh5PaBnl-6d9uuCRKMcBN?usp=sharing
+Baidu Cloud: https://pan.baidu.com/s/1TDTIDuprtcHVFYL_3mn4Jw?pwd=xfui 
 
